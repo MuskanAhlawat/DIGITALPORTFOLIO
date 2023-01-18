@@ -1,0 +1,82 @@
+{
+  "main": {
+    "name": "Muskan",
+    "occupation": "as a SDE+ERP Intern",
+    
+    "image": "profilepic.png",
+    "bio": "Hi there! I am Muskan, and I am a fourth-year student at VIT Bhopal University currently interning at GE as an erp sop intern.",
+    "contactmessage": "Get in touch with me",
+    "email": "muskanahlawat222@gmail.com",
+    "phone": "9896018469",
+    "address": {
+      "street": "Hoodi Road",
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "zip": "560048"
+    },
+    "website": "https://www.papareact.com/course",
+    "resumedownload": "https://drive.google.com/file/d/10z8X0rb_nKncfqIayfgDCXUudULMBdDo/view?usp=sharing",
+    "social": [
+      
+      {
+        "name": "github",
+        "url": "https://github.com/MuskanAhlawat",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "VIT BHOPAL UNIVERSITY",
+        "degree": "Bachelor's Degree, Computer Science",
+        "graduated": "Sept 2023",
+        "description": "Current GPA 8.91"
+      }
+    ],
+    "work": [
+      {
+        "company": "GE",
+        "title": "Intern",
+        "years": "Jan 2023 - Present",
+        "description": "Working with different erp, cleaning up the data, convert to different leading erp and sops, to find any leverage oppoptunity based on master data"
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "100%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "85%"
+      },
+      {
+        "name": "Angular",
+        "level": "70%"
+      },
+      {
+        "name": "ERP",
+        "level": "99%"
+      },
+      {
+        "name": "Web Development",
+        "level": "95%"
+      }
+    ]
+  },
+  
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": " SKY’S THE LIMIT (Feb 20 – May 20)",
+        "user": "This is a website for donation purposes. This can be used for health-care donations, educational donations, etc. Online donation web application plays an important role, since we can reach out to a lot of people for help without third party involvement. "
+      },
+      {
+        "text": "FACE MASK DETECTOR & TEMPERATURE SENSOR (Aug 21 – Nov 21)",
+        "user": " An IoT based project detects whether a person is wearing a mask or not."
+      }
+    ]
+  }
+}
